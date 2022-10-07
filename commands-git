@@ -2,3 +2,4 @@ git clone (nom du fichier)
 git add
 git push -u origin main
 git commit -m
+git pull
