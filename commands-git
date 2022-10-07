@@ -2,3 +2,9 @@ git clone (nom du fichier)
 git add
 git push -u origin main
 git commit -m
+
+Modifications
+git branch "nom de la branche"
+git checkout "nom de la branche"
+git pull
+
